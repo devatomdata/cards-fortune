@@ -1,0 +1,80 @@
+{
+	"data": [{
+			"category": "Love Reading",
+			"subcategory": [{
+					"title": "Love Tarot",
+					"image": ""
+				},
+				{
+					"title": "True Love Spread",
+					"image": ""
+				}
+			]
+		},
+		{
+			"category": "Unique Reading",
+			"subcategory": [{
+					"title": "",
+					"image": ""
+				},
+				{
+					"title": "",
+					"image": ""
+				},
+				{
+					"title": "",
+					"image": ""
+				}
+			]
+		},
+		{
+			"category": "Unique Reading",
+			"subcategory": [{
+					"title": "Birth Tarot",
+					"image": ""
+				},
+				{
+					"title": "Daily Tarot",
+					"image": ""
+				},
+				{
+					"title": "Yes or No Tarot",
+					"image": ""
+				},
+				{
+					"title": "Birthday Spread",
+					"image": ""
+				}
+			]
+		},
+		{
+			"category": "Career Reading",
+			"subcategory": [{
+					"title": "Career Tarot",
+					"image": ""
+				},
+				{
+					"title": "Career Path Spread",
+					"image": ""
+				},
+				{
+					"title": "",
+					"image": ""
+				}
+			]
+		},
+		{
+			"category": "Financial Reading",
+			"subcategory": [{
+					"title": "Financial Tarot",
+					"image": ""
+				},
+				{
+					"title": "Success Spread",
+					"image": ""
+				}
+			]
+		}
+
+	]
+}
