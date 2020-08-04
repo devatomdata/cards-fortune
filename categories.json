@@ -14,21 +14,21 @@
 		{
 			"category": "Unique Reading",
 			"subcategory": [{
-					"title": "",
+					"title": "What I Think-Feel-Do",
 					"image": ""
 				},
 				{
-					"title": "",
+					"title": "You-Your Potential-Your Path",
 					"image": ""
 				},
 				{
-					"title": "",
+					"title": "Sitiuation-Action-Outcome",
 					"image": ""
 				}
 			]
 		},
 		{
-			"category": "Unique Reading",
+			"category": "Tarot Insights",
 			"subcategory": [{
 					"title": "Birth Tarot",
 					"image": ""
@@ -55,10 +55,6 @@
 				},
 				{
 					"title": "Career Path Spread",
-					"image": ""
-				},
-				{
-					"title": "",
 					"image": ""
 				}
 			]
