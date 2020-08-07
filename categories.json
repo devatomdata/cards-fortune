@@ -3,11 +3,11 @@
 			"category": "Love Reading",
 			"subcategory": [{
 					"title": "Love Tarot",
-					"image": ""
+					"image": "love.png"
 				},
 				{
 					"title": "True Love Spread",
-					"image": ""
+					"image": "truelove.png"
 				}
 			]
 		},
@@ -15,15 +15,15 @@
 			"category": "Unique Reading",
 			"subcategory": [{
 					"title": "What I Think-Feel-Do",
-					"image": ""
+					"image": "thinkfeel.png"
 				},
 				{
 					"title": "You-Your Potential-Your Path",
-					"image": ""
+					"image": "potential.png"
 				},
 				{
 					"title": "Sitiuation-Action-Outcome",
-					"image": ""
+					"image": "situation.png"
 				}
 			]
 		},
@@ -31,19 +31,19 @@
 			"category": "Tarot Insights",
 			"subcategory": [{
 					"title": "Birth Tarot",
-					"image": ""
+					"image": "birth.png"
 				},
 				{
 					"title": "Daily Tarot",
-					"image": ""
+					"image": "daily.png"
 				},
 				{
 					"title": "Yes or No Tarot",
-					"image": ""
+					"image": "yesno.png"
 				},
 				{
 					"title": "Birthday Spread",
-					"image": ""
+					"image": "birthday.png"
 				}
 			]
 		},
@@ -51,11 +51,11 @@
 			"category": "Career Reading",
 			"subcategory": [{
 					"title": "Career Tarot",
-					"image": ""
+					"image": "career.png"
 				},
 				{
 					"title": "Career Path Spread",
-					"image": ""
+					"image": "careerspread.png"
 				}
 			]
 		},
@@ -63,11 +63,11 @@
 			"category": "Financial Reading",
 			"subcategory": [{
 					"title": "Financial Tarot",
-					"image": ""
+					"image": "financial.png"
 				},
 				{
 					"title": "Success Spread",
-					"image": ""
+					"image": "sucess.png"
 				}
 			]
 		}
